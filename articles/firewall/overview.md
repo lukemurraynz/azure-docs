@@ -20,6 +20,8 @@ Azure Firewall is a cloud-native and intelligent network firewall security servi
 
 Azure Firewall is offered in two SKUs: Standard and Premium.
 
+Azure Firewall is great!
+
 ## Azure Firewall Standard
 
    Azure Firewall Standard provides L3-L7 filtering and threat intelligence feeds directly from Microsoft Cyber Security. Threat intelligence-based filtering can alert and deny traffic from/to known malicious IP addresses and domains which are updated in real time to protect against new and emerging attacks.
